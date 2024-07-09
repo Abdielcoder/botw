@@ -1,0 +1,330 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA14F1BAEA063A25E9F',
+    participant: undefined
+  },
+  messageTimestamp: 1719954693,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'HOLA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'HOLA',
+  from: '5216631231673'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6fe672d8-ec4c-46c0-a92d-aa80e2146a15',
+  keyword: 'key_ef33804a-729d-43ea-8ccb-f55e10a0d786',
+  answer: '👱‍♀️ Hola, soy ARIS, tu asistente virtual. A continuación, te muestro las opciones disponibles por el momento: ✔',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbefd2fe2fdd73df7642241910b06ecd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5bcb57b6-d3d6-4f54-83db-7b3508232048',
+  keyword: 'ans_6fe672d8-ec4c-46c0-a92d-aa80e2146a15',
+  answer: '📋 Menú de opciones:\n' +
+    '1. 🔖 Consultar ticket por ID\n' +
+    '2. 🖊️Insertar comentario en ticket por ID\n' +
+    'Escribe el número o la letra clave, *"t" o  "c"*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '109970d8f5a253cf0234b0419122dccc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0E86EB4C4BE2AD8731',
+    participant: undefined
+  },
+  messageTimestamp: 1719954706,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'T',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'T',
+  from: '5216631231673'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28f55221-2dea-4f40-9b63-e9b70afb461d',
+  keyword: 'key_581e9636-e8ed-489a-b5d0-23c1511a11ea',
+  answer: 'Por favor, proporciona el ID del ticket:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '953e29b7d1ec90514220710825c3c6a4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A890AF009E43DCF50AF',
+    participant: undefined
+  },
+  messageTimestamp: 1719954714,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: '52856',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '52856',
+  from: '5216631231673'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0CBCA0094E8E857D3B',
+    participant: undefined
+  },
+  messageTimestamp: 1719954724,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'C',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'C',
+  from: '5216631231673'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9681f4d2-92e8-4e7f-b9d2-4390729a0542',
+  keyword: 'key_2fbd88e4-ff45-47ad-97f1-ff80b59ce78a',
+  answer: 'Por favor, proporciona el ID del ticket y tu comentario en el siguiente formato: ID_ticket, comentario',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0d98cea19acbc707df8d70fe498d49bf'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1B0CB9BFEE0FCA86E9',
+    participant: undefined
+  },
+  messageTimestamp: 1719954742,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: '52856, Esto es un comentario desde whatsapp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '52856, Esto es un comentario desde whatsapp',
+  from: '5216631231673'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28f55221-2dea-4f40-9b63-e9b70afb461d',
+  keyword: 'key_581e9636-e8ed-489a-b5d0-23c1511a11ea',
+  answer: 'Por favor, proporciona el ID del ticket:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '953e29b7d1ec90514220710825c3c6a4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7D222C7B5EB33B6E05',
+    participant: undefined
+  },
+  messageTimestamp: 1719954774,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: '23823872',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '23823872',
+  from: '5216631231673'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9AC61236DA50483C51',
+    participant: undefined
+  },
+  messageTimestamp: 1719954785,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '5216631231673'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6fe672d8-ec4c-46c0-a92d-aa80e2146a15',
+  keyword: 'key_ef33804a-729d-43ea-8ccb-f55e10a0d786',
+  answer: '👱‍♀️ Hola, soy ARIS, tu asistente virtual. A continuación, te muestro las opciones disponibles por el momento: ✔',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbefd2fe2fdd73df7642241910b06ecd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5bcb57b6-d3d6-4f54-83db-7b3508232048',
+  keyword: 'ans_6fe672d8-ec4c-46c0-a92d-aa80e2146a15',
+  answer: '📋 Menú de opciones:\n' +
+    '1. 🔖 Consultar ticket por ID\n' +
+    '2. 🖊️Insertar comentario en ticket por ID\n' +
+    'Escribe el número o la letra clave, *"t" o  "c"*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '109970d8f5a253cf0234b0419122dccc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7366ECEE5377D37CDD',
+    participant: undefined
+  },
+  messageTimestamp: 1719955386,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: 't',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 't',
+  from: '5216631231673'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28f55221-2dea-4f40-9b63-e9b70afb461d',
+  keyword: 'key_581e9636-e8ed-489a-b5d0-23c1511a11ea',
+  answer: 'Por favor, proporciona el ID del ticket:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '953e29b7d1ec90514220710825c3c6a4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216631231673@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE79B03F21446184D02',
+    participant: undefined
+  },
+  messageTimestamp: 1719955391,
+  pushName: 'Abdiel',
+  broadcast: false,
+  message: Message {
+    conversation: '52856',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '52856',
+  from: '5216631231673'
+}
